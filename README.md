@@ -6,6 +6,8 @@ oi eu sou o gustavo.
 </a>
 </div>
 
+as linguagens que eu mais usei na vida ai ó
+
 (eu não programei nada ainda)
 
 
