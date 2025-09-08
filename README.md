@@ -15,7 +15,7 @@ eu não programei nada ainda
 </a>
 </div>
 
-ve minhas nota em filme ai vai
+<p> ve minhas nota em filme ai vai </p>
 
 
 ó o meu email ai se vc quiser ver ou mandar uma mensagem de carinho e amor pra mim ai ;)
