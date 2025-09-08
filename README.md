@@ -9,14 +9,12 @@ oi eu sou o gustavo.
 
 eu não programei nada ainda
 
+<h1> ve minhas nota em filme ai vai </h1>
 <div style="width: 300px; ">
 <a href="https://letterboxd.com/gostavinhu/">
   <img src="https://images.steamusercontent.com/ugc/10636923113798537174/A00D5523123A37A47F4651EA9C567159C890239C/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="leterboxd">
 </a>
 </div>
-
-<h1> ve minhas nota em filme ai vai </h1>
-
 
 ó o meu email ai se vc quiser ver ou mandar uma mensagem de carinho e amor pra mim ai ;)
 
