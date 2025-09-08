@@ -1,4 +1,4 @@
-<img width="637" height="893" alt="image" src="https://github.com/user-attachments/assets/a89cad73-b2d6-456f-93ad-aaa8401bad5e" />oi eu sou o gustavo.
+oi eu sou o gustavo.
 
 <div style="width: 500px;">
 <a href="https://x.com/Gostavinhuu">
