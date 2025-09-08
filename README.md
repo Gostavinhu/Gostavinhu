@@ -1,12 +1,17 @@
 oi eu sou o gustavo.
 
+<div style="width: 500px;">
+<a href="https://x.com/Gostavinhuu">
+  <img src="https://media.tenor.com/7pi5Ja3WcRoAAAAe/mustard-kendrick-lamar.png" alt="MUSTAAAAAAAAARD">
+</a>
+</div>
+
+as linguagens que eu mais usei na vida ai ó
 <div style="width: 200px;">
 <a href="https://github.com/Gostavinhu/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gostavinhu&langs_count=8" alt="Top Langs" />
 </a>
 </div>
-
-as linguagens que eu mais usei na vida ai ó
 
 (eu não programei nada ainda)
 
