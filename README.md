@@ -8,7 +8,7 @@
 
 
 eu não programei nada ainda
-<div style="width: 500px;" style=" height: 500px; ">
+<div style="width: 500px; ">
 <a href="https://letterboxd.com/gostavinhu/">
   <img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fymqjcopfuh0f1.jpeg" alt="leterboxd">
 </a>
