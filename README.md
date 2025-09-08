@@ -8,11 +8,13 @@
 
 
 eu não programei nada ainda
-<div style="width: 500px; ">
+
+<div style="width: 512px; ">
 <a href="https://letterboxd.com/gostavinhu/">
-  <img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fymqjcopfuh0f1.jpeg" alt="leterboxd">
+  <img src="https://images.steamusercontent.com/ugc/10636923113798537174/A00D5523123A37A47F4651EA9C567159C890239C/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="leterboxd">
 </a>
 </div>
+
 ve minhas nota em filme ai vai
 
 
