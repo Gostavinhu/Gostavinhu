@@ -1,19 +1,19 @@
-oi eu sou o gustavo.
+<img width="637" height="893" alt="image" src="https://github.com/user-attachments/assets/a89cad73-b2d6-456f-93ad-aaa8401bad5e" />oi eu sou o gustavo.
 
 <div style="width: 500px;">
 <a href="https://x.com/Gostavinhuu">
-  <img src="https://media.tenor.com/7pi5Ja3WcRoAAAAe/mustard-kendrick-lamar.png" alt="MUSTAAAAAAAAARD">
+  <img src="https://media.tenor.com/7pi5Ja3WcRoAAAAe/mustard-kendrick-lamar.png" alt="MUSTAAAAAAAAARD(twitter)">
 </a>
 </div>
 
-as linguagens que eu mais usei na vida ai ó
-<div style="width: 200px;">
-<a href="https://github.com/Gostavinhu/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gostavinhu&langs_count=8" alt="Top Langs" />
+
+eu não programei nada ainda
+<div style="width: 500px;" style=" height: 500px; ">
+<a href="https://letterboxd.com/gostavinhu/">
+  <img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fymqjcopfuh0f1.jpeg" alt="leterboxd">
 </a>
 </div>
-
-(eu não programei nada ainda)
+ve minhas nota em filme ai vai
 
 
 ó o meu email ai se vc quiser ver ou mandar uma mensagem de carinho e amor pra mim ai ;)
