@@ -20,6 +20,7 @@ eu não programei nada ainda
 .
 ó o meu email ai se vc quiser ver ou mandar uma mensagem de carinho e amor pra mim ai ;)
 
+
 <a href="mailto:gustavogueiros2312@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
