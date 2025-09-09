@@ -1,6 +1,9 @@
 oi eu sou o gustavo.
+
+ <img align="right" alt="Coding" width="400" src="https://images.steamusercontent.com/ugc/790858329433082572/7AFB90944739524B66E931AC5ED409ED84BA09B6/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+
 <h2>Esse é meu twitter</h2>
-<div style="width: 100px;">
+<div style="width: 51.2px;">
 <a href="https://x.com/Gostavinhuu">
   <img src="https://media.tenor.com/7pi5Ja3WcRoAAAAe/mustard-kendrick-lamar.png" alt="MUSTAAAAAAAAARD(twitter)">
 </a>
@@ -10,7 +13,7 @@ eu não programei nada ainda
 .
 .
 <h1> ve minhas nota em filme ai vai </h1>
-<div style="width: 100px; ">
+<div style="width: 51.2px;">
 <a href="https://letterboxd.com/gostavinhu/">
   <img src="https://images.steamusercontent.com/ugc/10636923113798537174/A00D5523123A37A47F4651EA9C567159C890239C/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="leterboxd">
 </a>
