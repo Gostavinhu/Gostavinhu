@@ -1,6 +1,8 @@
 oi eu sou o gustavo.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gostavinhu)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 
