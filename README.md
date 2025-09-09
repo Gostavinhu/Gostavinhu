@@ -1,5 +1,18 @@
 oi eu sou o gustavo.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gostavinhu)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
+
+
+
+
+
  <img alt="Coding" src="https://images.steamusercontent.com/ugc/790858329433082572/7AFB90944739524B66E931AC5ED409ED84BA09B6/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 <br><br>
 <br><br>
