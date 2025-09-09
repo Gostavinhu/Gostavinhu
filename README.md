@@ -35,7 +35,9 @@ nenhuma ainda :/
 
 ### Contato:
 ![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badgee)&nbsp;
-![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)&nbsp;  
+<br>
+![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)&nbsp; 
+<br>
 <a href="mailto:gustavogueiros2312@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
