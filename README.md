@@ -14,7 +14,7 @@
 </p>
  
 ### Principais habilidades:
-nenhuma ainda :/
+
  
 ### Ferramentas:
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)&nbsp;
@@ -23,7 +23,7 @@ nenhuma ainda :/
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
  
 ### Outros Conhecimentos:
-![Canva](https://img.shields.io/badge/Canva-7952B3?style=flat&logo=canva)&nbsp;
+
   
 ### Estudando no momento:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
